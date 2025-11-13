@@ -16,5 +16,4 @@ This project implements **Principal Component Analysis (PCA)** for face recognit
 Achieved accurate face recognition using PCA feature vectors.
 
 ---
-
  File: `Deep.ipynb`
